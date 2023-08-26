@@ -47,3 +47,5 @@ __pycache__/
 ######################
 GNUmakefile
 user.props
+sdbuild/tools/*
+boards/pynq-zed/*
